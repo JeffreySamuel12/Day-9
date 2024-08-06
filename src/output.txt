@@ -1,0 +1,2 @@
+i am input1
+i am input 2
